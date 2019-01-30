@@ -1,0 +1,6 @@
+[19-Apr-2017 22:50:11 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/brbhomes/public_html/lib/Database.php on line 18
+[19-Apr-2017 22:50:11 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/brbhomes/public_html/lib/Database.php on line 27
+[19-Apr-2017 22:50:11 America/Chicago] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/brbhomes/public_html/lib/Database.php on line 28
+[19-Apr-2017 22:51:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'brbhomes_new'@'localhost' to database 'brbhomes_new' in /home/brbhomes/public_html/lib/Database.php on line 18
+[19-Apr-2017 22:51:23 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/brbhomes/public_html/lib/Database.php on line 27
+[19-Apr-2017 22:51:23 America/Chicago] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/brbhomes/public_html/lib/Database.php on line 28
